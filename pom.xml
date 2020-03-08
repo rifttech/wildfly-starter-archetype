@@ -13,6 +13,15 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+
+    <distributionManagement>
+        <repository>
+            <id>github-packages</id>
+            <name>GitHub rifttech Apache Maven Packages</name>
+            <url>https://maven.pkg.github.com/rifttech/wildfly-starter-archetype</url>
+        </repository>
+    </distributionManagement>
+
     <build>
         <extensions>
             <extension>
