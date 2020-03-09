@@ -4,7 +4,7 @@
 
 ### 1. Install artifact to local maven repository
 1. Use `git clone https://github.com/rifttech/wildfly-starter-archetype.git` command to clone repository
-2. Run command `mvn install` in project root to install artifact at local maven reposity
+2. Run command `mvn install` in project root to install artifact at local maven repository
 
 ### 2. Generate project from installed maven's archetype
 
